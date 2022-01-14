@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>merge_pointclouds</name>
+  <version>0.0.0</version>
+  <description></description>
+
+  <maintainer email="peter@todo.todo">peter</maintainer>
+
+  <license>TODO</license>
+
+  <author >peter</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>message_filters</depend>
+  <depend>pcl_conversions</depend>
+  <depend>link_bot_data</depend>
+  <build_depend>libpcl-all-dev</build_depend>
+  <exec_depend>libpcl-all</exec_depend>
+
+</package>
