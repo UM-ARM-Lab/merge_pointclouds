@@ -10,7 +10,6 @@
 #include <pcl/point_types.h>
 #include <pcl/filters/radius_outlier_removal.h>
 #include <pcl/registration/icp.h>
-#include <pcl/visualization/pcl_visualizer.h>
 
 typedef pcl::PointXYZ PointT;
 typedef pcl::PointCloud<PointT> PointCloudT;
