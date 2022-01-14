@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(merge_pointsclouds)
+project(merge_pointclouds)
 
 find_package(catkin REQUIRED roscpp sensor_msgs message_filters pcl_conversions)
 
