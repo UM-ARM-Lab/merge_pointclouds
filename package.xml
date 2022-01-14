@@ -2,7 +2,7 @@
 <package format="2">
   <name>merge_pointclouds</name>
   <version>0.0.0</version>
-  <description></description>
+  <description>merge pointclouds</description>
 
   <maintainer email="peter@todo.todo">peter</maintainer>
 
